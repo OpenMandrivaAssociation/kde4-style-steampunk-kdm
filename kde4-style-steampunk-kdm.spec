@@ -4,7 +4,7 @@ Version:	3.0
 Release:	2
 License:	Creative Commons Attribution-ShareAlike
 Group:		Graphical desktop/KDE
-Url:		http://kde-look.org/content/show.php?content=142139
+Url:		https://kde-look.org/content/show.php?content=142139
 Source:		http://sites.google.com/site/binaryinspiration/download/SPL_KDM.tar.gz
 Requires:	kdm >= 2:4.10
 BuildRequires:	kde4-macros
